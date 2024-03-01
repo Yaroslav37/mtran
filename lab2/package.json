@@ -1,0 +1,19 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yaroslav37/mtran.git"
+  },
+  "author": "jarick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yaroslav37/mtran/issues"
+  },
+  "homepage": "https://github.com/Yaroslav37/mtran#readme"
+}
